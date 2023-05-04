@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: white;
 }
 
 .App-logo {
@@ -39,4 +41,32 @@
 
 .nodec {
   list-style-type: none;
+}
+
+li {
+  margin: 0;
+}
+
+.title{
+  color: #61dafb;
+}
+
+strong {
+  color: #9feaff;
+}
+
+.search-btn{
+  background-color:#9feaff;
+  margin: 10px;
+}
+
+.book-crd{
+  text-align: left;
+  background-color: #3f444e;
+  margin: 20px;
+  padding: 10px;
+}
+
+.background-color{
+  background-color:#282c34;
 }

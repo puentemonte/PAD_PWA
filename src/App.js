@@ -20,9 +20,9 @@ function App() {
 
   return (
     <div className="App">
-      <h2>PWA</h2>
-      <input id="input" placeholder='Busca un libro...' value={query} onChange={e => setQuery(e.target.value)}></input>
-      <button onClick={getBooks}>Buscar</button>
+      <h2 className="title">Google Books</h2>
+      <input id="input" className="form-control" placeholder='Busca un libro...' value={query} onChange={e => setQuery(e.target.value)}></input>
+      <button className="btn search-btn" onClick={getBooks}>Buscar</button>
       <Books books={books} />
     </div>
   );

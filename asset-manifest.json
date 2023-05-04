@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PAD_PWA/static/css/main.9971331a.css",
+    "main.js": "/PAD_PWA/static/js/main.a9530b01.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PAD_PWA/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/PAD_PWA/service-worker.js",
+    "index.html": "/PAD_PWA/index.html",
+    "main.9971331a.css.map": "/PAD_PWA/static/css/main.9971331a.css.map",
+    "main.a9530b01.js.map": "/PAD_PWA/static/js/main.a9530b01.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PAD_PWA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9971331a.css",
+    "static/js/main.a9530b01.js"
+  ]
+}
